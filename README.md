@@ -10,5 +10,6 @@ Mi proceso como estudiante de programación no es muy larga, sin embargo estuve 
 En estos meses que llevo siendo aprendiz del SENA desde principio de año, he aprendido:
 ## -HTML
 ## -PSEint
+## - los pasos básicos para programar como recolectar información etc
 <img width="480" height="359" alt="image" src="https://github.com/user-attachments/assets/38901568-0187-4565-bbbf-f38d6db1d008" />
 
